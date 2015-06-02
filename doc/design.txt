@@ -1,0 +1,23 @@
+development flow
+
+plan
+
+what features
+
+what test
+
+what architecture mvc,mvp
+
+what models
+
+what components
+
+what logic methods
+
+what design
+
+
+
+
+
+product flavors to create different product versions of your app
